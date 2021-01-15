@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PersonApiClient</string>
+
+    <string-array name="bool">
+
+        <!--DropDown for spinner-->
+        <item>False</item>
+        <item>True</item>
+    </string-array>
+
+</resources>
